@@ -42,7 +42,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-center mb-14">
           Your Fans can buy you a Chai
         </h2>
-        <div className="flex gap-5 justify-around">
+        <div className="flex gap-5 justify-around md:text-center">
           <div className="item space-y-2 flex flex-col items-center justify-center">
             <img
               className=" bg-slate-400 rounded-full p-2 text-black"
